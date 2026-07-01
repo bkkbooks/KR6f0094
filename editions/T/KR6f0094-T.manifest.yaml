@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6f0094/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0094/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 拔一切業障根本得生淨土神呪
+  identifiers:
+    krp: KR6f0094
+    cbeta: T12n0368
+    cbeta_old_id: T12n0368
+    authorityid: CA0000128
+    json_key: T0368
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0368.xml
+    old_id: T12n0368
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0094_000-T.yaml, hash: 'sha256:ce3d85d108a45465e164aaab5fc8d0d8f8026ad2d55bceac31ab1fb7dfc736df'}
+  - {seq: 1, filename: KR6f0094_001-T.yaml, hash: 'sha256:bfb8021061c294a72f42f597131e03ebda7b236b7feb9af9af1f6639eb934e76'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0094_000-T.markers.yaml, hash: 'sha256:d109d74e613985a411178b1aa909f00349905c4d1d55cda3130f62bedee309fb'}
+  - {seq: 1, role: markers, filename: assets/KR6f0094_001-T.markers.yaml, hash: 'sha256:1d129cf9f4416d5f3e7cba3f776537ca3289544bc233e2c1ed8f84b2e2aa7ac9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0094_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 698
+  label: '拔一切業障根本得生淨土神呪
+
+    出小無量壽經'
+  type: juan
+  level: 1
+hash: sha256:9ae3a658c6138f7235b7977e5abb9708f99573359d6ffa9bd36ea9087e064662

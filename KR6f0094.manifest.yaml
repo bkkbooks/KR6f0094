@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR6f0094/v1
+canonical_location: https://kanripo.org/bkk/KR6f0094/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 拔一切業障根本得生淨土神呪
+  identifiers:
+    alt_id:
+    - T12n0368
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0368.xml
+    old_id: T12n0368
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0094_000.yaml, hash: 'sha256:ce3d85d108a45465e164aaab5fc8d0d8f8026ad2d55bceac31ab1fb7dfc736df'}
+  - {seq: 1, filename: KR6f0094_001.yaml, hash: 'sha256:93dfd801789db0343ec9c0d40dc0509114cc748103572a60e3dc8a8b4055f1b6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0094_001.markers.yaml, hash: 'sha256:8cac1b6b17b287d2d8ceed17e09bca6cce606e4a192b94b55818323cc782a0e1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0094_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 698
+  label: '拔一切業障根本得生淨土神呪
+
+    出小無量壽經'
+  type: juan
+  level: 1
+hash: sha256:71714806f927d58ed347d8e943c3905cee61724d25bb6d60d7ad6f1d847d5519
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

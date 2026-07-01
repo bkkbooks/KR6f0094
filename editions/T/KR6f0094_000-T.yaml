@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0094/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 拔一切業障根本得生淨土神呪
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0368.xml
+    old_id: T12n0368
+hash: sha256:ce3d85d108a45465e164aaab5fc8d0d8f8026ad2d55bceac31ab1fb7dfc736df

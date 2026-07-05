@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0094_000.yaml, hash: 'sha256:ce3d85d108a45465e164aaab5fc8d0d8f8026ad2d55bceac31ab1fb7dfc736df'}
-  - {seq: 1, filename: KR6f0094_001.yaml, hash: 'sha256:93dfd801789db0343ec9c0d40dc0509114cc748103572a60e3dc8a8b4055f1b6'}
+  - {seq: 1, filename: KR6f0094_001.yaml, hash: 'sha256:bfb8021061c294a72f42f597131e03ebda7b236b7feb9af9af1f6639eb934e76'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0094_001.markers.yaml, hash: 'sha256:8cac1b6b17b287d2d8ceed17e09bca6cce606e4a192b94b55818323cc782a0e1'}
+  - {seq: 0, role: markers, filename: assets/KR6f0094_000.markers.yaml, hash: 'sha256:1590c21cebde145ee9bec5f74539e01f36149a0129af0945b124f5f2b9ab7b7e'}
+  - {seq: 1, role: markers, filename: assets/KR6f0094_001.markers.yaml, hash: 'sha256:7bb6fa67327799be79c179cd39136e3dab6cc611accf04929764d26f25a236bb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -41,7 +42,4 @@ table_of_contents:
     出小無量壽經'
   type: juan
   level: 1
-hash: sha256:71714806f927d58ed347d8e943c3905cee61724d25bb6d60d7ad6f1d847d5519
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:00e071483e7abde2b959387eef753db427d78a0fef7f338c71565e4fa4d3bdcb

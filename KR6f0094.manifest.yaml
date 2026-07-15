@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0094/v1
 canonical_location: https://kanripo.org/bkk/KR6f0094/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 拔一切業障根本得生淨土神呪
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0094_000.yaml, hash: 'sha256:ce3d85d108a45465e164aaab5fc8d0d8f8026ad2d55bceac31ab1fb7dfc736df'}
-  - {seq: 1, filename: KR6f0094_001.yaml, hash: 'sha256:bfb8021061c294a72f42f597131e03ebda7b236b7feb9af9af1f6639eb934e76'}
+  - {seq: 1, filename: KR6f0094_001.yaml, hash: 'sha256:93dfd801789db0343ec9c0d40dc0509114cc748103572a60e3dc8a8b4055f1b6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0094_000.markers.yaml, hash: 'sha256:1590c21cebde145ee9bec5f74539e01f36149a0129af0945b124f5f2b9ab7b7e'}
-  - {seq: 1, role: markers, filename: assets/KR6f0094_001.markers.yaml, hash: 'sha256:7bb6fa67327799be79c179cd39136e3dab6cc611accf04929764d26f25a236bb'}
+  - {seq: 1, role: markers, filename: assets/KR6f0094_001.markers.yaml, hash: 'sha256:73a8bb3c3435480dba21377e3f3207d88dc157d72178997223811fcc5659da57'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,4 +42,7 @@ table_of_contents:
     出小無量壽經'
   type: juan
   level: 1
-hash: sha256:00e071483e7abde2b959387eef753db427d78a0fef7f338c71565e4fa4d3bdcb
+hash: sha256:0f7ae9b601d1e91d6c0e640a18e5bf04289b212ee6a62604e620d8f42116a1c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
